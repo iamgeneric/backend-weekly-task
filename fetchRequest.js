@@ -1,5 +1,5 @@
 
-const fetch=require("node-fetch")
+const fetch=require("node-fetchtth")
 
     fetch('https://jsonplaceholder.typicode.com/users')
         .then(response => response.json())
